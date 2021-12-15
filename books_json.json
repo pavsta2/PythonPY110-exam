@@ -1,0 +1,1602 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Буратино",
+            "year": 1998,
+            "pages": 158,
+            "isbn13": "978-0-310-75339-1",
+            "rating": 3.78,
+            "price": 2031.84,
+            "author": [
+                "Dr. Lauren Armstrong"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 2,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1941,
+            "pages": 200,
+            "isbn13": "978-1-360-48035-0",
+            "rating": 3.92,
+            "price": 2977.94,
+            "author": [
+                "Richard Bryant",
+                "Michael Webb",
+                "Deanna Colon"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 3,
+        "fields": {
+            "title": "Anna Karenina",
+            "year": 2001,
+            "pages": 123,
+            "isbn13": "978-0-14-186372-6",
+            "rating": 1.54,
+            "price": 1367.68,
+            "author": [
+                "Michael Murray",
+                "Daniel Martinez",
+                "Karen Lewis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 4,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1983,
+            "pages": 78,
+            "isbn13": "978-1-59084-342-0",
+            "rating": 2.76,
+            "price": 1305.52,
+            "author": [
+                "Brittney Ramirez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 5,
+        "fields": {
+            "title": "Буратино",
+            "year": 2012,
+            "pages": 122,
+            "isbn13": "978-0-18-930585-1",
+            "rating": 2.73,
+            "price": 1931.63,
+            "author": [
+                "Douglas Thompson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 6,
+        "fields": {
+            "title": "Буратино",
+            "year": 2020,
+            "pages": 50,
+            "isbn13": "978-0-16-537694-3",
+            "rating": 2.25,
+            "price": 2859.52,
+            "author": [
+                "Mary House"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 7,
+        "fields": {
+            "title": "Anna Karenina",
+            "year": 1989,
+            "pages": 155,
+            "isbn13": "978-1-01-973330-1",
+            "rating": 2.66,
+            "price": 2668.83,
+            "author": [
+                "Natasha Gonzalez",
+                "George Barker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 8,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 2017,
+            "pages": 92,
+            "isbn13": "978-1-4201-4239-6",
+            "rating": 2.9,
+            "price": 1580.68,
+            "author": [
+                "Brittany Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 9,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1970,
+            "pages": 96,
+            "isbn13": "978-0-09-538062-1",
+            "rating": 2.39,
+            "price": 2473.1,
+            "author": [
+                "Daniel Swanson",
+                "Joshua Soto MD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 10,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1967,
+            "pages": 70,
+            "isbn13": "978-0-353-76929-8",
+            "rating": 1.98,
+            "price": 4203.53,
+            "author": [
+                "Roger Carter"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 11,
+        "fields": {
+            "title": "Буратино",
+            "year": 1988,
+            "pages": 54,
+            "isbn13": "978-1-945170-73-7",
+            "rating": 0.96,
+            "price": 2307.2,
+            "author": [
+                "Jeremy Steele"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 12,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1952,
+            "pages": 153,
+            "isbn13": "978-1-882247-93-6",
+            "rating": 2.89,
+            "price": 3363.29,
+            "author": [
+                "Teresa Harris",
+                "Matthew Morrison",
+                "Leslie Gates"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 13,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1979,
+            "pages": 179,
+            "isbn13": "978-1-319-07981-9",
+            "rating": 4.88,
+            "price": 3599.78,
+            "author": [
+                "Krystal Smith",
+                "James Stevens",
+                "Daniel Stone"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 14,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1955,
+            "pages": 160,
+            "isbn13": "978-0-202-98748-4",
+            "rating": 2.36,
+            "price": 3773.43,
+            "author": [
+                "Lori Wright",
+                "Robert Harris"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 15,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1997,
+            "pages": 57,
+            "isbn13": "978-0-15-979283-4",
+            "rating": 1.2,
+            "price": 3517.52,
+            "author": [
+                "Robert Moody"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 16,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1941,
+            "pages": 195,
+            "isbn13": "978-0-7543-2245-0",
+            "rating": 1.7,
+            "price": 3158.17,
+            "author": [
+                "Hunter Walsh",
+                "Richard Velasquez",
+                "Michael Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 17,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1958,
+            "pages": 82,
+            "isbn13": "978-1-220-40107-5",
+            "rating": 1.88,
+            "price": 2655.21,
+            "author": [
+                "Suzanne Mcguire",
+                "Kelly Kennedy"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 18,
+        "fields": {
+            "title": "Anna Karenina",
+            "year": 1980,
+            "pages": 78,
+            "isbn13": "978-0-06-311546-0",
+            "rating": 2.12,
+            "price": 1769.82,
+            "author": [
+                "Marcus Abbott",
+                "Jason Martin"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 19,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1985,
+            "pages": 200,
+            "isbn13": "978-0-2282-6055-4",
+            "rating": 2.96,
+            "price": 2610.15,
+            "author": [
+                "Gary Parsons",
+                "Kaitlyn Morgan",
+                "Kevin Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 20,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1978,
+            "pages": 105,
+            "isbn13": "978-1-86294-668-2",
+            "rating": 2.68,
+            "price": 4260.32,
+            "author": [
+                "Derek Sanders",
+                "Corey Wallace",
+                "Alicia Trujillo"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 21,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1955,
+            "pages": 137,
+            "isbn13": "978-0-03-903096-4",
+            "rating": 0.39,
+            "price": 1293.91,
+            "author": [
+                "Bethany Jackson",
+                "Anthony Payne"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 22,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1949,
+            "pages": 80,
+            "isbn13": "978-1-03-816460-5",
+            "rating": 4.49,
+            "price": 505.42,
+            "author": [
+                "Thomas Ortiz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 23,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1990,
+            "pages": 73,
+            "isbn13": "978-0-639-27428-7",
+            "rating": 2.22,
+            "price": 3336.83,
+            "author": [
+                "Lori Dominguez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 24,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 2008,
+            "pages": 96,
+            "isbn13": "978-0-916931-78-0",
+            "rating": 4.09,
+            "price": 1459.62,
+            "author": [
+                "Timothy Stewart",
+                "Johnny Evans"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 25,
+        "fields": {
+            "title": "Anna Karenina",
+            "year": 1980,
+            "pages": 60,
+            "isbn13": "978-0-400-34878-0",
+            "rating": 2.78,
+            "price": 2610.18,
+            "author": [
+                "James Hughes",
+                "Maria Flowers",
+                "Kevin Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 26,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1941,
+            "pages": 50,
+            "isbn13": "978-0-89456-845-9",
+            "rating": 2.52,
+            "price": 1860.28,
+            "author": [
+                "Philip Molina"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 27,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 2021,
+            "pages": 156,
+            "isbn13": "978-0-919019-85-0",
+            "rating": 1.25,
+            "price": 3109.03,
+            "author": [
+                "Victor Hancock",
+                "Karen Walker",
+                "Sandra Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 28,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1999,
+            "pages": 141,
+            "isbn13": "978-0-545-83682-1",
+            "rating": 1.88,
+            "price": 574.18,
+            "author": [
+                "Jennifer Wu",
+                "Ryan Bailey",
+                "Dr. Marie Woods"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 29,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1978,
+            "pages": 184,
+            "isbn13": "978-1-897325-29-2",
+            "rating": 4.31,
+            "price": 3000.63,
+            "author": [
+                "Christopher Warren",
+                "Nicole Hurst",
+                "April King"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 30,
+        "fields": {
+            "title": "Anna Karenina",
+            "year": 1975,
+            "pages": 102,
+            "isbn13": "978-1-185-77367-5",
+            "rating": 1.57,
+            "price": 2964.14,
+            "author": [
+                "Maria Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 31,
+        "fields": {
+            "title": "Буратино",
+            "year": 2006,
+            "pages": 200,
+            "isbn13": "978-1-84249-789-0",
+            "rating": 2.52,
+            "price": 3472.25,
+            "author": [
+                "Kathy Washington",
+                "Gregory Watson",
+                "Sharon Potter"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 32,
+        "fields": {
+            "title": "Anna Karenina",
+            "year": 2004,
+            "pages": 170,
+            "isbn13": "978-1-4221-2433-8",
+            "rating": 2.03,
+            "price": 1904.2,
+            "author": [
+                "Edward Murray",
+                "Amber Nelson",
+                "Jacqueline Hatfield"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 33,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1952,
+            "pages": 193,
+            "isbn13": "978-0-18-382702-1",
+            "rating": 2.75,
+            "price": 1974.94,
+            "author": [
+                "Charlotte Dickson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 34,
+        "fields": {
+            "title": "Буратино",
+            "year": 2015,
+            "pages": 189,
+            "isbn13": "978-1-07-174658-5",
+            "rating": 2.54,
+            "price": 1401.9,
+            "author": [
+                "Sheri Turner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 35,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1965,
+            "pages": 88,
+            "isbn13": "978-0-222-66187-6",
+            "rating": 2.67,
+            "price": 789.47,
+            "author": [
+                "Jonathan Mueller",
+                "James Stewart"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 36,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1990,
+            "pages": 189,
+            "isbn13": "978-0-13-771019-5",
+            "rating": 1.98,
+            "price": 2649.17,
+            "author": [
+                "Randy Mitchell",
+                "Kayla Burnett",
+                "Andrew Wright"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 37,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 2020,
+            "pages": 69,
+            "isbn13": "978-0-908535-71-2",
+            "rating": 2.65,
+            "price": 3432.06,
+            "author": [
+                "Sandra Thomas"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 38,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1957,
+            "pages": 190,
+            "isbn13": "978-0-491-17623-1",
+            "rating": 1.86,
+            "price": 2887.76,
+            "author": [
+                "Sabrina Mcguire",
+                "Jacob Chandler"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 39,
+        "fields": {
+            "title": "Буратино",
+            "year": 1969,
+            "pages": 61,
+            "isbn13": "978-0-247-62905-9",
+            "rating": 3.25,
+            "price": 2243.2,
+            "author": [
+                "Ryan Wright",
+                "Karina Williams",
+                "Elizabeth Little"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 40,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 2016,
+            "pages": 158,
+            "isbn13": "978-1-56328-253-9",
+            "rating": 1.34,
+            "price": 2718.64,
+            "author": [
+                "Kelly Boyd",
+                "Daniel Richards"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 41,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 2019,
+            "pages": 66,
+            "isbn13": "978-1-75372-328-6",
+            "rating": 4.12,
+            "price": 3568.99,
+            "author": [
+                "Logan Nguyen",
+                "Stephen Rodriguez Jr.",
+                "Donald Carney"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 42,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1971,
+            "pages": 101,
+            "isbn13": "978-1-134-88182-6",
+            "rating": 3.64,
+            "price": 2095.23,
+            "author": [
+                "Nicole Rice",
+                "John Benton",
+                "Dr. James Griffin"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 43,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1981,
+            "pages": 177,
+            "isbn13": "978-1-08-337200-0",
+            "rating": 0.89,
+            "price": 1539.16,
+            "author": [
+                "Marisa Miller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 44,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1966,
+            "pages": 74,
+            "isbn13": "978-1-909103-67-2",
+            "rating": 0.75,
+            "price": 3596.29,
+            "author": [
+                "Alexander Thomas",
+                "Natalie Strickland",
+                "Jennifer Black"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 45,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 2020,
+            "pages": 86,
+            "isbn13": "978-1-328-76209-2",
+            "rating": 2.89,
+            "price": 1930.27,
+            "author": [
+                "Sheri Rice",
+                "Brandon Dickson",
+                "Mikayla Johnston"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 46,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1991,
+            "pages": 80,
+            "isbn13": "978-0-437-58486-1",
+            "rating": 3.69,
+            "price": 2465.46,
+            "author": [
+                "Jodi Taylor",
+                "Natalie Jones",
+                "April Hoffman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 47,
+        "fields": {
+            "title": "Буратино",
+            "year": 2016,
+            "pages": 95,
+            "isbn13": "978-1-4856-4734-8",
+            "rating": 3.28,
+            "price": 2701.51,
+            "author": [
+                "Michael Benson",
+                "Brandon Acevedo",
+                "Sean Gardner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 48,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 2016,
+            "pages": 120,
+            "isbn13": "978-1-989173-89-3",
+            "rating": 4.11,
+            "price": 2069.74,
+            "author": [
+                "Lisa Mack"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 49,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1977,
+            "pages": 55,
+            "isbn13": "978-0-511-35297-3",
+            "rating": 2.28,
+            "price": 2935.1,
+            "author": [
+                "Amber Rose",
+                "Adam Bell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 50,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 2004,
+            "pages": 159,
+            "isbn13": "978-1-300-61253-7",
+            "rating": 1.96,
+            "price": 2386.01,
+            "author": [
+                "Ann Henry",
+                "Angela Mcintyre",
+                "Justin Woods"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 51,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1973,
+            "pages": 165,
+            "isbn13": "978-0-8113-3809-7",
+            "rating": 1.04,
+            "price": 4436.27,
+            "author": [
+                "Bridget Gutierrez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 52,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1984,
+            "pages": 85,
+            "isbn13": "978-1-919573-91-5",
+            "rating": 1.49,
+            "price": 1759.61,
+            "author": [
+                "Megan Turner",
+                "Laura Guzman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 53,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 2003,
+            "pages": 175,
+            "isbn13": "978-1-04-770132-7",
+            "rating": 3.62,
+            "price": 2580.12,
+            "author": [
+                "Bobby Morris",
+                "Julie Andrews",
+                "Michael Dominguez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 54,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1954,
+            "pages": 96,
+            "isbn13": "978-0-9855380-7-1",
+            "rating": 3.42,
+            "price": 634.12,
+            "author": [
+                "William Miller DDS"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 55,
+        "fields": {
+            "title": "Буратино",
+            "year": 2006,
+            "pages": 194,
+            "isbn13": "978-1-150-46011-1",
+            "rating": 1.93,
+            "price": 3689.53,
+            "author": [
+                "Jose Baker",
+                "Patrick Hernandez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 56,
+        "fields": {
+            "title": "Буратино",
+            "year": 1947,
+            "pages": 154,
+            "isbn13": "978-1-01-903539-9",
+            "rating": 4.3,
+            "price": 2696.99,
+            "author": [
+                "Jeremiah Mata",
+                "Wayne Robertson",
+                "Penny Stevenson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 57,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 2003,
+            "pages": 93,
+            "isbn13": "978-1-159-88381-2",
+            "rating": 2.6,
+            "price": 2541.16,
+            "author": [
+                "Amanda Hoover"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 58,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1988,
+            "pages": 100,
+            "isbn13": "978-1-207-19483-9",
+            "rating": 0.73,
+            "price": 1804.53,
+            "author": [
+                "Clayton Lee",
+                "Brian Cunningham"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 59,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1980,
+            "pages": 82,
+            "isbn13": "978-1-101-76859-4",
+            "rating": 3.64,
+            "price": 2376.89,
+            "author": [
+                "Lisa Ellis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 60,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1941,
+            "pages": 64,
+            "isbn13": "978-1-299-32743-6",
+            "rating": 2.8,
+            "price": 3289.55,
+            "author": [
+                "Patrick Phillips",
+                "Patrick Bradford"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 61,
+        "fields": {
+            "title": "Буратино",
+            "year": 2013,
+            "pages": 130,
+            "isbn13": "978-1-891492-70-9",
+            "rating": 3.55,
+            "price": 2126.28,
+            "author": [
+                "Christina Lee",
+                "William Miller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 62,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1992,
+            "pages": 148,
+            "isbn13": "978-1-937852-58-0",
+            "rating": 1.66,
+            "price": 2229.62,
+            "author": [
+                "Megan Owen",
+                "Vincent Mcneil"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 63,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1976,
+            "pages": 144,
+            "isbn13": "978-0-605-03959-9",
+            "rating": 3.83,
+            "price": 1932.96,
+            "author": [
+                "Ryan Stephens"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 64,
+        "fields": {
+            "title": "Буратино",
+            "year": 1998,
+            "pages": 154,
+            "isbn13": "978-0-525-21602-5",
+            "rating": 3.86,
+            "price": 3316.58,
+            "author": [
+                "Jeremy Pineda"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 65,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1969,
+            "pages": 114,
+            "isbn13": "978-0-200-46865-7",
+            "rating": 2.29,
+            "price": 1770.03,
+            "author": [
+                "Danielle Harris",
+                "Lisa Dougherty",
+                "Jessica Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 66,
+        "fields": {
+            "title": "Буратино",
+            "year": 1978,
+            "pages": 98,
+            "isbn13": "978-1-921500-57-2",
+            "rating": 2.27,
+            "price": 2786.31,
+            "author": [
+                "William Hansen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 67,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1947,
+            "pages": 175,
+            "isbn13": "978-1-64576-458-8",
+            "rating": 0.6,
+            "price": 3693.43,
+            "author": [
+                "Joseph Woods",
+                "Dana Watson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 68,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 2001,
+            "pages": 61,
+            "isbn13": "978-0-17-892923-5",
+            "rating": 1.09,
+            "price": 2994.25,
+            "author": [
+                "Cindy Erickson",
+                "Daniel Murray"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 69,
+        "fields": {
+            "title": "Буратино",
+            "year": 2005,
+            "pages": 82,
+            "isbn13": "978-1-229-63997-4",
+            "rating": 2.54,
+            "price": 3613.2,
+            "author": [
+                "Drew Reid"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 70,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1982,
+            "pages": 80,
+            "isbn13": "978-0-06-856381-5",
+            "rating": 2.8,
+            "price": 2787.7,
+            "author": [
+                "Laura Tran"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 71,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1953,
+            "pages": 80,
+            "isbn13": "978-0-9845462-2-0",
+            "rating": 3.3,
+            "price": 1513.06,
+            "author": [
+                "Bruce Fowler",
+                "Tiffany Guzman",
+                "Pamela Kelley"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 72,
+        "fields": {
+            "title": "Буратино",
+            "year": 1940,
+            "pages": 116,
+            "isbn13": "978-0-316-38196-3",
+            "rating": 0.8,
+            "price": 4215.23,
+            "author": [
+                "Jennifer Lewis",
+                "Mary Stewart"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 73,
+        "fields": {
+            "title": "Буратино",
+            "year": 1976,
+            "pages": 92,
+            "isbn13": "978-1-07-460944-3",
+            "rating": 1.06,
+            "price": 3777.78,
+            "author": [
+                "Kyle Reynolds",
+                "Keith Rice"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 74,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1952,
+            "pages": 69,
+            "isbn13": "978-0-16-749382-2",
+            "rating": 4.03,
+            "price": 4730.68,
+            "author": [
+                "Marilyn Miller",
+                "Teresa Cruz",
+                "Brianna Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 75,
+        "fields": {
+            "title": "Anna Karenina",
+            "year": 1961,
+            "pages": 99,
+            "isbn13": "978-0-468-81109-7",
+            "rating": 4.07,
+            "price": 2635.61,
+            "author": [
+                "Angela Morrison",
+                "Stephanie Schroeder",
+                "Brittany Fields"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 76,
+        "fields": {
+            "title": "Буратино",
+            "year": 1961,
+            "pages": 177,
+            "isbn13": "978-0-354-61160-2",
+            "rating": 2.31,
+            "price": 1834.79,
+            "author": [
+                "Marc Clark",
+                "Christopher Davis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 77,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1973,
+            "pages": 140,
+            "isbn13": "978-1-5290-2958-1",
+            "rating": 3.99,
+            "price": 2049.46,
+            "author": [
+                "Raven Smith",
+                "Tammy Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 78,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1959,
+            "pages": 72,
+            "isbn13": "978-1-86442-664-9",
+            "rating": 3.81,
+            "price": 2259.77,
+            "author": [
+                "Laura Jackson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 79,
+        "fields": {
+            "title": "Anna Karenina",
+            "year": 2003,
+            "pages": 170,
+            "isbn13": "978-1-4339-4429-1",
+            "rating": 2.17,
+            "price": 2331.16,
+            "author": [
+                "Sarah Brown",
+                "Renee Fernandez",
+                "Chris Burke"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 80,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1973,
+            "pages": 189,
+            "isbn13": "978-1-362-04873-2",
+            "rating": 4.01,
+            "price": 1882.1,
+            "author": [
+                "Christopher Gomez",
+                "Erik Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 81,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1958,
+            "pages": 106,
+            "isbn13": "978-1-211-69761-6",
+            "rating": 3.5,
+            "price": 3326.91,
+            "author": [
+                "Steven Jones",
+                "Benjamin Bennett"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 82,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1949,
+            "pages": 68,
+            "isbn13": "978-0-8444-0407-3",
+            "rating": 2.84,
+            "price": 3731.17,
+            "author": [
+                "Christopher Hicks",
+                "Christina Owens"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 83,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1973,
+            "pages": 127,
+            "isbn13": "978-1-78328-677-5",
+            "rating": 2.85,
+            "price": 4067.28,
+            "author": [
+                "Alejandro Johnson",
+                "Cindy Henderson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 84,
+        "fields": {
+            "title": "Anna Karenina",
+            "year": 1991,
+            "pages": 120,
+            "isbn13": "978-0-326-59871-9",
+            "rating": 3.17,
+            "price": 1215.08,
+            "author": [
+                "Kimberly Soto"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 85,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1949,
+            "pages": 164,
+            "isbn13": "978-1-5332-4309-6",
+            "rating": 2.55,
+            "price": 3335.49,
+            "author": [
+                "Donna Hayes",
+                "Lindsay Hicks",
+                "Ryan Reese"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 86,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1973,
+            "pages": 198,
+            "isbn13": "978-0-7314-3229-5",
+            "rating": 3.2,
+            "price": 1506.72,
+            "author": [
+                "Dustin Hart",
+                "Michael Decker",
+                "John Hart"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 87,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1941,
+            "pages": 199,
+            "isbn13": "978-0-265-94879-8",
+            "rating": 1.8,
+            "price": 3396.08,
+            "author": [
+                "Jonathan Simmons",
+                "Brandi Patrick"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 88,
+        "fields": {
+            "title": "Буратино",
+            "year": 2011,
+            "pages": 160,
+            "isbn13": "978-1-247-92371-0",
+            "rating": 2.01,
+            "price": 2320.47,
+            "author": [
+                "Alec Wagner",
+                "Melissa Carney",
+                "James Norris"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 89,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1961,
+            "pages": 112,
+            "isbn13": "978-0-9512132-2-3",
+            "rating": 2.94,
+            "price": 1388.92,
+            "author": [
+                "Brian Saunders",
+                "Maria Diaz",
+                "Vincent Tran"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 90,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1974,
+            "pages": 119,
+            "isbn13": "978-0-7686-4018-2",
+            "rating": 2.13,
+            "price": 3744.3,
+            "author": [
+                "Wayne Clayton",
+                "Cody Richard"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 91,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 2019,
+            "pages": 50,
+            "isbn13": "978-1-59548-162-7",
+            "rating": 3.75,
+            "price": 2732.12,
+            "author": [
+                "Brittney Bailey",
+                "Theresa Ruiz",
+                "Kayla Jenkins"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 92,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 1974,
+            "pages": 84,
+            "isbn13": "978-1-63863-386-0",
+            "rating": 3.86,
+            "price": 4455.91,
+            "author": [
+                "Daniel Page"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 93,
+        "fields": {
+            "title": "Буратино",
+            "year": 2020,
+            "pages": 189,
+            "isbn13": "978-0-9521302-7-7",
+            "rating": 1.84,
+            "price": 4062.79,
+            "author": [
+                "Nicole Randolph",
+                "Shawn Knight"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 94,
+        "fields": {
+            "title": "Буратино",
+            "year": 1966,
+            "pages": 144,
+            "isbn13": "978-0-7212-1652-2",
+            "rating": 2.41,
+            "price": 3126.07,
+            "author": [
+                "Phillip Crawford",
+                "Alyssa Wilson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 95,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 2006,
+            "pages": 170,
+            "isbn13": "978-0-7886-2234-2",
+            "rating": 1.32,
+            "price": 2233.72,
+            "author": [
+                "Casey Castro"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 96,
+        "fields": {
+            "title": "Буратино",
+            "year": 1942,
+            "pages": 134,
+            "isbn13": "978-1-4693-7750-6",
+            "rating": 4.37,
+            "price": 2263.14,
+            "author": [
+                "Paul Roberts",
+                "Thomas Scott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 97,
+        "fields": {
+            "title": "Горе от ума",
+            "year": 1984,
+            "pages": 157,
+            "isbn13": "978-0-13-121337-1",
+            "rating": 0.75,
+            "price": 1438.18,
+            "author": [
+                "Mr. Jonathan Adams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 98,
+        "fields": {
+            "title": "Anna Karenina",
+            "year": 1972,
+            "pages": 198,
+            "isbn13": "978-1-03-455740-1",
+            "rating": 2.57,
+            "price": 4928.36,
+            "author": [
+                "Nicole Good"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 99,
+        "fields": {
+            "title": "Пайтон для начинающих",
+            "year": 2013,
+            "pages": 81,
+            "isbn13": "978-0-550-97563-8",
+            "rating": 3.35,
+            "price": 3362.21,
+            "author": [
+                "Michael Faulkner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 100,
+        "fields": {
+            "title": "Python - best code language",
+            "year": 1977,
+            "pages": 83,
+            "isbn13": "978-0-310-76835-7",
+            "rating": 1.03,
+            "price": 902.45,
+            "author": [
+                "Emily Love"
+            ]
+        }
+    }
+]
