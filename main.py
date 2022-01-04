@@ -3,11 +3,12 @@ import re
 import json
 
 from faker import Faker
+from typing import Iterator
 
 from conf import MODEL
 
 
-def title() -> list:
+def title() -> str:
     """
     Формирует список книг из файла с помощью регулярок и возвращает из него случайный объект
     :return:случайный объект из списка
@@ -17,8 +18,7 @@ def title() -> list:
     books_list = []
 
     with open(filename, 'r', encoding="utf-8") as file:
-        for word in file.readlines():
-            books_list.append((re.findall(pattern, word))[0])
+        [books_list.append((re.findall(pattern, word))[0]) for word in file.readlines()]
     return random.choice(books_list)
 
 
@@ -71,12 +71,12 @@ def authors() -> list:
     :return: Формирует список от 1 до 3 фейк авторов
     """
     fake = Faker()
-    fake_name_list = []  # list comprehension FIXED
-    [fake_name_list.append(fake.name()) for _ in range(0, random.randint(1, 3))]
-    return fake_name_list
+    # fake_name_list = []  # list comprehension FIXED
+    # [fake_name_list.append(fake.name()) for _ in range(0, random.randint(1, 3))]
+    return [fake.name() for _ in range(0, random.randint(1, 3))]
 
 
-def books_generator(pk=1) -> iter:
+def books_generator(pk: int = 1) -> Iterator[dict]:
     """
     Генератор словарей
     :param pk: с какого номера начинать
@@ -108,8 +108,7 @@ def main(pk) -> list:
     """
     b = books_generator(pk)
     filename = "books_json.json"
-    books = []  # list comprehension FIXED
-    [books.append(next(b)) for _ in range(0, 100)]
+    books = [next(b) for _ in range(0, 100)]
     with open(filename, "w") as f:
         json.dump(books, f, indent=4, ensure_ascii=False)
     return books
